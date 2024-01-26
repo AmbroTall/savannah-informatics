@@ -28,4 +28,4 @@ To start the development server and run the app, use the following command:
 This will execute the test suite and provide feedback on the health of your application.
 
 ## Automated Pipeline
-We have set up an automated pipeline that runs tests whenever a commit is pushed to the repository. This ensures that the codebase remains stable and tests pass before changes are merged.
+I have set up an automated pipeline that runs tests whenever a commit is pushed to the repository. This ensures that the codebase remains stable and tests pass before changes are merged.
