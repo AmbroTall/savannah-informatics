@@ -9,10 +9,10 @@ Currently, two official plugins are available:
 
 ## Installation
 1. Clone the repository:
-- git clone https://github.com/your-username/your-react-app.git
+- git clone [https://github.com/your-username/your-react-app.git](https://github.com/AmbroTall/savannah-informatics.git)
 
 2. Navigate to the project directory:
-- cd your-react-app
+- Where the package.json is located.
   
 3. Install dependencies:
 - npm install / yarn install
